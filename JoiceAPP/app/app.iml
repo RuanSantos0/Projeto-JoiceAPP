@@ -103,7 +103,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 24 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\Ruan\Repositorios\Projeto-JoiceAPP\JoiceAPP\app\libs\unity-classes.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\libs\unity-classes.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support.constraint:constraint-layout-1.0.2" level="project" />
     <orderEntry type="library" exported="" name="android-android-24" level="project" />

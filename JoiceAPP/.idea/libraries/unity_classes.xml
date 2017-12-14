@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="__local_jars__:C.\Users\Ruan\Repositorios\Projeto-JoiceAPP\JoiceAPP\app\libs\unity-classes.jar:unspecified@jar">
+  <library name="unity-classes">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/app/libs/unity-classes.jar!/" />
     </CLASSES>

@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="22"
+    abi="x86"
+    api-level="24"
     build-mode="FULL"
-    density="xxhdpi"
+    density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1513167769553"
+    timestamp="1513257669821"
     token="-8687285240881724307"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="6370" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="5185" />
     <task
         name="verifier"
-        duration="0" />
+        duration="127" />
 
+    <artifact
+        location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
@@ -53,17 +59,17 @@
     <artifact
         location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1513167769553"
+        timestamp="1513257669821"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
@@ -94,12 +100,6 @@
         <artifact
             location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Ruan\AndroidStudioProjects\TesteAndroid\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
